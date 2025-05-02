@@ -4,8 +4,6 @@ from Bio import SeqIO
 # Загружаем наш файл GenBank
 genbank_file = "merged_sequences.gb"
 
-# Используем функцию SeqIO.parse для последовательного чтения всех записей из GenBank файла
-# Формат файла указываем как "genbank"
 for record in SeqIO.parse(genbank_file, "genbank"):
 
     # Выводим ID текущей записи для информативности
@@ -18,11 +16,7 @@ for record in SeqIO.parse(genbank_file, "genbank"):
             # Создаем пустой список, в котором будем хранить белковые последовательности,
             # полученные с этой мРНК
             protein_sequences = []
-            # feature.location — объект, описывающий координаты feature на последовательности
-            # Если feature.location является комплексным, анализируем каждую часть отдельно
-            # (в GenBank возможны сложные участки с интронами и экзонами)
-            # Обходим все отдельные локации в данном feature.location
-
+            
             for location in feature.location:
                 # Проверяем, есть ли кодирующая последовательность (CDS)
 

@@ -1,9 +1,7 @@
 from Bio import Entrez, SeqIO
 
-# Укажите свою электронную почту, чтобы соблюсти правило NCBI
 Entrez.email = "01egor07anufriev06@gmail.com"
 
-# Замените на названия видов, которые вам нужны
 species_names = ["Brassica oleracea", "Solanum lycopersicum"]
 
 # Список для хранения записей
@@ -24,7 +22,6 @@ for species in species_names:
         records.append(SeqIO.read(fetch_handle, "genbank"))
         fetch_handle.close()
 
-# Сохранение всех записей в один файл формата GenBank
 output_file = "merged_sequences.gb"
 
 with open(output_file, "w") as output_handle:

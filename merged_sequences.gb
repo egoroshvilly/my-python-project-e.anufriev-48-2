@@ -1,0 +1,1088 @@
+LOCUS       PV528323                1500 bp    mRNA    linear   PLN 23-APR-2025
+DEFINITION  Brassica oleracea var. italica hexokinase 2 (HXK2) mRNA, complete
+            cds.
+ACCESSION   PV528323
+VERSION     PV528323.1
+KEYWORDS    .
+SOURCE      Brassica oleracea var. italica
+  ORGANISM  Brassica oleracea var. italica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (bases 1 to 1500)
+  AUTHORS   Wang,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2025) Wenzhou University, Tea Mountain
+            Subdistrict, Ouhai District, Wenzhou, Zhejiang 325000, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Trinity v. 2.0
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1500
+                     /organism="Brassica oleracea var. italica"
+                     /mol_type="mRNA"
+                     /variety="italica"
+                     /db_xref="taxon:36774"
+                     /geo_loc_name="China"
+                     /PCR_primers="fwd_name: bohxk2-f, fwd_seq:
+                     atgggtaaagtggctgttggt, rev_name: bohxk2-r, rev_seq:
+                     ttaacttgtttcagagtcatcg"
+     gene            1..1500
+                     /gene="HXK2"
+                     /note="BoHXK2"
+     CDS             1..1500
+                     /gene="HXK2"
+                     /codon_start=1
+                     /product="hexokinase 2"
+                     /protein_id="XRL84129.1"
+                     /translation="MGKVAVGATVVCAAAVCAASVYIVRRRMQSSGKWARVIEILRVLE
+                     EDCATPIGKLRQVADAMTVEMHAGLASEGGSKLKMLISYVDNLPSGEEHGFFYALDLGG
+                     TNFRVMRVLLGGKQGRVVKQEAKEVSIPPHLMTSGSDELFNFIAEALANFVATEGEDFH
+                     LPEGRQRELGFTFSFPVKQTSLSSGTLIKWTKGFSIEDTVGQDVVGALVKAMERVGLDM
+                     NVTALVNDTVGTLAGGRYYNPDVVAAVILGTGTNAAYVERAHAIPKWHGLLPKSGEMVI
+                     NMEWGNFRSSHLPLTEYDHLLDFDSLNPGEQILEKIISGMYLGEILRRVLLKMADEAAF
+                     FGDSVPPKLRIPFIIRTPNMSAMHSDTSPDLKVVGSKLKDILEVPTTSLKMRKVVVSLC
+                     DIIASRGARLSAAGIYGILKKLGRDAPKDGETQKSVIAMDGGLFEHYTQFSECMESSLK
+                     ELLGDEASDSVEVIHSNDGSGVGAALLAASHSQYLDDSETS"
+ORIGIN
+        1 atgggtaaag tggctgttgg tgcgacggtc gtgtgcgctg cggcggtttg cgcggcgtct
+       61 gtgtacatcg tgcggcggcg gatgcaaagc tccgggaaat gggcgcgtgt gatagagatc
+      121 ctgagggttc tcgaggagga ttgcgcgacg ccaatcggga aactgagaca agtggcggat
+      181 gcgatgacgg ttgagatgca cgcgggtctc gcttccgaag gtggaagcaa gcttaagatg
+      241 cttatcagct acgtcgataa tcttccttct ggggaagaac atggtttctt ttatgcgctg
+      301 gacctaggag gaacgaactt ccgtgtgatg cgtgtgcttc ttggtggcaa acaaggccgt
+      361 gttgtcaaac aagaagccaa agaagtctct attcctcctc atttgatgac cagcggttca
+      421 gatgaactgt tcaattttat cgctgaagcg cttgcaaatt tcgtggctac agaaggagag
+      481 gactttcatc tcccagaggg tagacaaagg gagctaggtt tcactttctc gtttccggtt
+      541 aagcagacat ctttgtcttc tggcactctc atcaagtgga ccaaaggctt ctccatcgaa
+      601 gatacagttg gacaagatgt ggttggtgcg cttgttaaag ctatggaaag agttgggctt
+      661 gacatgaatg tcacagccct tgttaatgat accgttggaa cacttgctgg tggtagatac
+      721 tataaccctg atgttgtcgc cgctgttatt ctaggcactg gcacaaacgc agcttatgtt
+      781 gaacgtgcac atgccattcc caaatggcac ggcttacttc ccaaatctgg agaaatggtg
+      841 atcaacatgg agtggggaaa cttcaggtca tcacatcttc cattgacgga gtacgaccac
+      901 ttgctggatt tcgatagtct gaatcctggt gaacagattc ttgagaaaat catttccggt
+      961 atgtatttgg gagagatctt gcgtagagtc cttctcaaaa tggctgacga ggctgctttc
+     1021 tttggtgact ctgtcccacc taagctgaga ataccattca taataaggac accaaacatg
+     1081 tctgctatgc acagcgacac ttctccggat ttgaaggttg ttggaagcaa gttaaaggac
+     1141 atattggagg tccctaccac ttctctgaag atgagaaaag ttgtggtcag tctgtgtgac
+     1201 atcatagcta gccgcggagc tcgtctatca gctgcaggga tctacggaat cctcaagaaa
+     1261 ctaggaagag acgcaccgaa agacggagag acgcagaaat ctgtgatagc catggacggt
+     1321 ggactgtttg agcactacac tcagttcagc gagtgtatgg agagctcgtt gaaagagttg
+     1381 cttggagatg aagcatcaga cagcgtggag gtgattcatt cgaatgacgg atctggcgtt
+     1441 ggagctgcat tactcgctgc ctcgcactct cagtacctcg atgactctga aacaagttaa
+//
+LOCUS       NZ_JYHH01000000      6058356 bp    DNA     linear   BCT 08-APR-2025
+DEFINITION  Pseudomonas syringae pv. maculicola strain CFBP 1657, whole genome
+            shotgun sequencing project.
+ACCESSION   NZ_JYHH00000000
+VERSION     NZ_JYHH00000000.1
+DBLINK      BioProject: PRJNA224116
+            BioSample: SAMN03328955
+            Assembly: GCF_000935725.1
+KEYWORDS    WGS; RefSeq.
+SOURCE      Pseudomonas syringae pv. maculicola
+  ORGANISM  Pseudomonas syringae pv. maculicola
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Pseudomonadales; Pseudomonadaceae; Pseudomonas.
+REFERENCE   1  (bases 1 to 6058356)
+  AUTHORS   Bartoli,C., Carrere,S., Lamichhane,J.R., Varvaro,L. and Morris,C.E.
+  TITLE     Whole-Genome Sequencing of 10 Pseudomonas syringae Strains
+            Representing Different Host Range Spectra
+  JOURNAL   Genome Announc 3 (2), e00379-15 (2015)
+   PUBMED   25931602
+  REMARK    Erratum:[Genome Announc. 2015 Jun 04;3(3):e00628-15. doi:
+            10.1128/genomeA.00628-15. PMID: 26044440] Publication Status:
+            Online-Only
+REFERENCE   2  (bases 1 to 6058356)
+  AUTHORS   Bartoli,C., Carrere,S., Lamichhane,J.R., Varvaro,L. and Morris,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2015) Laboratoire des Interactions Plantes
+            Micro-organismes, INRA/CNRS, Chemin de Borderouge, Castanet-Tolosan
+            31200, France
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Date                     :: 11-FEB-2015
+            Assembly Method :: Velvet v. 1.2.02; SOAPdenovo v. 2.04
+            Assembly Name                     :: PSMCFBP1657-G1
+            Genome Representation             :: Full
+            Expected Final Version            :: No
+            Genome Coverage                   :: 147.0x
+            Sequencing Technology             :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI RefSeq
+            Annotation Name                   :: GCF_000935725.1-RS_2025_04_07
+            Annotation Date                   :: 04/07/2025 00:33:04
+            Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline
+            (PGAP)
+            Annotation Method :: Best-placed reference protein set; GeneMarkS-2+
+            Annotation Software revision      :: 6.10
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA
+            Genes (total)                     :: 5,459
+            CDSs (total)                      :: 5,396
+            Genes (coding)                    :: 5,164
+            CDSs (with protein)               :: 5,164
+            Genes (RNA)                       :: 63
+            rRNAs                             :: 2, 1, 1 (5S, 16S, 23S)
+            complete rRNAs                    :: 2, 1 (5S, 16S)
+            partial rRNAs                     :: 1 (23S)
+            tRNAs                             :: 55
+            ncRNAs                            :: 4
+            Pseudo Genes (total)              :: 232
+            CDSs (without protein)            :: 232
+            Pseudo Genes (ambiguous residues) :: 0 of 232
+            Pseudo Genes (frameshifted)       :: 59 of 232
+            Pseudo Genes (incomplete)         :: 177 of 232
+            Pseudo Genes (internal stop)      :: 32 of 232
+            Pseudo Genes (multiple problems)  :: 33 of 232
+            ##Genome-Annotation-Data-END##
+            REFSEQ INFORMATION: The reference sequence is identical to
+            JYHH00000000.1.
+            The Pseudomonas syringae pv. maculicola whole genome shotgun (WGS)
+            project has the project accession NZ_JYHH00000000.  This version of
+            the project (01) has the accession number NZ_JYHH01000000, and
+            consists of sequences JYHH01000001-JYHH01000138.
+FEATURES             Location/Qualifiers
+     source          1..6058356
+                     /organism="Pseudomonas syringae pv. maculicola"
+                     /mol_type="genomic DNA"
+                     /strain="CFBP 1657"
+                     /host="Brassica oleracea var. botrytis"
+                     /culture_collection="CFBP:1657"
+                     /type_material="pathotype strain of Pseudomonas syringae
+                     pv. maculicola"
+                     /db_xref="taxon:59511"
+                     /geo_loc_name="New Zealand"
+                     /collection_date="1965-03-01"
+                     /pathovar="maculicola"
+ORIGIN
+//
+LOCUS       NZ_JYHH01000138          538 bp    DNA     linear   CON 08-APR-2025
+DEFINITION  Pseudomonas syringae pv. maculicola strain CFBP 1657 CFBP1657139,
+            whole genome shotgun sequence.
+ACCESSION   NZ_JYHH01000138
+VERSION     NZ_JYHH01000138.1
+DBLINK      BioProject: PRJNA224116
+            BioSample: SAMN03328955
+            Assembly: GCF_000935725.1
+KEYWORDS    WGS; RefSeq.
+SOURCE      Pseudomonas syringae pv. maculicola
+  ORGANISM  Pseudomonas syringae pv. maculicola
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Pseudomonadales; Pseudomonadaceae; Pseudomonas.
+REFERENCE   1  (bases 1 to 538)
+  AUTHORS   Bartoli,C., Carrere,S., Lamichhane,J.R., Varvaro,L. and Morris,C.E.
+  TITLE     Whole-Genome Sequencing of 10 Pseudomonas syringae Strains
+            Representing Different Host Range Spectra
+  JOURNAL   Genome Announc 3 (2), e00379-15 (2015)
+   PUBMED   25931602
+  REMARK    Erratum:[Genome Announc. 2015 Jun 04;3(3):e00628-15. doi:
+            10.1128/genomeA.00628-15. PMID: 26044440] Publication Status:
+            Online-Only
+REFERENCE   2  (bases 1 to 538)
+  AUTHORS   Bartoli,C., Carrere,S., Lamichhane,J.R., Varvaro,L. and Morris,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2015) Laboratoire des Interactions Plantes
+            Micro-organismes, INRA/CNRS, Chemin de Borderouge, Castanet-Tolosan
+            31200, France
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Date                     :: 11-FEB-2015
+            Assembly Method :: Velvet v. 1.2.02; SOAPdenovo v. 2.04
+            Assembly Name                     :: PSMCFBP1657-G1
+            Genome Representation             :: Full
+            Expected Final Version            :: No
+            Genome Coverage                   :: 147.0x
+            Sequencing Technology             :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI RefSeq
+            Annotation Name                   :: GCF_000935725.1-RS_2025_04_07
+            Annotation Date                   :: 04/07/2025 00:33:04
+            Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline
+            (PGAP)
+            Annotation Method :: Best-placed reference protein set; GeneMarkS-2+
+            Annotation Software revision      :: 6.10
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA
+            Genes (total)                     :: 5,459
+            CDSs (total)                      :: 5,396
+            Genes (coding)                    :: 5,164
+            CDSs (with protein)               :: 5,164
+            Genes (RNA)                       :: 63
+            rRNAs                             :: 2, 1, 1 (5S, 16S, 23S)
+            complete rRNAs                    :: 2, 1 (5S, 16S)
+            partial rRNAs                     :: 1 (23S)
+            tRNAs                             :: 55
+            ncRNAs                            :: 4
+            Pseudo Genes (total)              :: 232
+            CDSs (without protein)            :: 232
+            Pseudo Genes (ambiguous residues) :: 0 of 232
+            Pseudo Genes (frameshifted)       :: 59 of 232
+            Pseudo Genes (incomplete)         :: 177 of 232
+            Pseudo Genes (internal stop)      :: 32 of 232
+            Pseudo Genes (multiple problems)  :: 33 of 232
+            ##Genome-Annotation-Data-END##
+            REFSEQ INFORMATION: The reference sequence is identical to
+            JYHH01000138.1.
+            The annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (PGAP). Information about PGAP can be found here:
+            https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+FEATURES             Location/Qualifiers
+     source          1..538
+                     /organism="Pseudomonas syringae pv. maculicola"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="CFBP1657139"
+                     /strain="CFBP 1657"
+                     /host="Brassica oleracea var. botrytis"
+                     /culture_collection="CFBP:1657"
+                     /type_material="pathotype strain of Pseudomonas syringae
+                     pv. maculicola"
+                     /db_xref="taxon:59511"
+                     /geo_loc_name="New Zealand"
+                     /collection_date="1965-03-01"
+                     /pathovar="maculicola"
+     gene            <1..>538
+                     /locus_tag="PSMCFBP1657_RS26615"
+     CDS             <1..>538
+                     /locus_tag="PSMCFBP1657_RS26615"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005770143.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=3
+                     /transl_table=11
+                     /product="type VI secretion system Vgr family protein"
+                     /protein_id="WP_044394282.1"
+                     /translation="FGHQFLPRIGQEVLVTFVAGDIDRPLVTSVVYNNHNLPPRFSKAS
+                     GLPGNRTLSGIRTQEHKGSGFNELLFDDTPGSLRARMGTTHQATALNLGKLTDPRTDGT
+                     AQPRGNGAELRTDAAIALRAAQGMLLTTYARTDAKGSQLDREELLKLLAECGELFKSLG
+                     ETAAARGGQAVDVKG"
+CONTIG      join(JYHH01000138.1:1..538)
+//
+LOCUS       NZ_JYHH01000136          571 bp    DNA     linear   CON 08-APR-2025
+DEFINITION  Pseudomonas syringae pv. maculicola strain CFBP 1657 CFBP1657137,
+            whole genome shotgun sequence.
+ACCESSION   NZ_JYHH01000136
+VERSION     NZ_JYHH01000136.1
+DBLINK      BioProject: PRJNA224116
+            BioSample: SAMN03328955
+            Assembly: GCF_000935725.1
+KEYWORDS    WGS; RefSeq.
+SOURCE      Pseudomonas syringae pv. maculicola
+  ORGANISM  Pseudomonas syringae pv. maculicola
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Pseudomonadales; Pseudomonadaceae; Pseudomonas.
+REFERENCE   1  (bases 1 to 571)
+  AUTHORS   Bartoli,C., Carrere,S., Lamichhane,J.R., Varvaro,L. and Morris,C.E.
+  TITLE     Whole-Genome Sequencing of 10 Pseudomonas syringae Strains
+            Representing Different Host Range Spectra
+  JOURNAL   Genome Announc 3 (2), e00379-15 (2015)
+   PUBMED   25931602
+  REMARK    Erratum:[Genome Announc. 2015 Jun 04;3(3):e00628-15. doi:
+            10.1128/genomeA.00628-15. PMID: 26044440] Publication Status:
+            Online-Only
+REFERENCE   2  (bases 1 to 571)
+  AUTHORS   Bartoli,C., Carrere,S., Lamichhane,J.R., Varvaro,L. and Morris,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2015) Laboratoire des Interactions Plantes
+            Micro-organismes, INRA/CNRS, Chemin de Borderouge, Castanet-Tolosan
+            31200, France
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Date                     :: 11-FEB-2015
+            Assembly Method :: Velvet v. 1.2.02; SOAPdenovo v. 2.04
+            Assembly Name                     :: PSMCFBP1657-G1
+            Genome Representation             :: Full
+            Expected Final Version            :: No
+            Genome Coverage                   :: 147.0x
+            Sequencing Technology             :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI RefSeq
+            Annotation Name                   :: GCF_000935725.1-RS_2025_04_07
+            Annotation Date                   :: 04/07/2025 00:33:04
+            Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline
+            (PGAP)
+            Annotation Method :: Best-placed reference protein set; GeneMarkS-2+
+            Annotation Software revision      :: 6.10
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA
+            Genes (total)                     :: 5,459
+            CDSs (total)                      :: 5,396
+            Genes (coding)                    :: 5,164
+            CDSs (with protein)               :: 5,164
+            Genes (RNA)                       :: 63
+            rRNAs                             :: 2, 1, 1 (5S, 16S, 23S)
+            complete rRNAs                    :: 2, 1 (5S, 16S)
+            partial rRNAs                     :: 1 (23S)
+            tRNAs                             :: 55
+            ncRNAs                            :: 4
+            Pseudo Genes (total)              :: 232
+            CDSs (without protein)            :: 232
+            Pseudo Genes (ambiguous residues) :: 0 of 232
+            Pseudo Genes (frameshifted)       :: 59 of 232
+            Pseudo Genes (incomplete)         :: 177 of 232
+            Pseudo Genes (internal stop)      :: 32 of 232
+            Pseudo Genes (multiple problems)  :: 33 of 232
+            ##Genome-Annotation-Data-END##
+            REFSEQ INFORMATION: The reference sequence is identical to
+            JYHH01000136.1.
+            The annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (PGAP). Information about PGAP can be found here:
+            https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+FEATURES             Location/Qualifiers
+     source          1..571
+                     /organism="Pseudomonas syringae pv. maculicola"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="CFBP1657137"
+                     /strain="CFBP 1657"
+                     /host="Brassica oleracea var. botrytis"
+                     /culture_collection="CFBP:1657"
+                     /type_material="pathotype strain of Pseudomonas syringae
+                     pv. maculicola"
+                     /db_xref="taxon:59511"
+                     /geo_loc_name="New Zealand"
+                     /collection_date="1965-03-01"
+                     /pathovar="maculicola"
+     gene            <1..548
+                     /locus_tag="PSMCFBP1657_RS26600"
+     CDS             <1..548
+                     /locus_tag="PSMCFBP1657_RS26600"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010227062.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=3
+                     /transl_table=11
+                     /product="IS110 family transposase"
+                     /protein_id="WP_044394278.1"
+                     /translation="RMLAAWRPDLSDYRQLASAYRIALKTLGRRYLELHDEIADLDVMI
+                     AGLVDELAPELVSRNAIGYETAAQLLLTAGDNSDRFRSESSFAALCGVSPVQASSGKVS
+                     RHRLNRGGDRAANSALHIIAIGRLRTDVRTQTYVAKRIAEGHSKLEAIRCLKRYIAREV
+                     YGIIQSRNLTINQSTIST"
+CONTIG      join(JYHH01000136.1:1..571)
+//
+LOCUS       NZ_JYHH01000135          575 bp    DNA     linear   CON 08-APR-2025
+DEFINITION  Pseudomonas syringae pv. maculicola strain CFBP 1657 CFBP1657136,
+            whole genome shotgun sequence.
+ACCESSION   NZ_JYHH01000135
+VERSION     NZ_JYHH01000135.1
+DBLINK      BioProject: PRJNA224116
+            BioSample: SAMN03328955
+            Assembly: GCF_000935725.1
+KEYWORDS    WGS; RefSeq.
+SOURCE      Pseudomonas syringae pv. maculicola
+  ORGANISM  Pseudomonas syringae pv. maculicola
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Pseudomonadales; Pseudomonadaceae; Pseudomonas.
+REFERENCE   1  (bases 1 to 575)
+  AUTHORS   Bartoli,C., Carrere,S., Lamichhane,J.R., Varvaro,L. and Morris,C.E.
+  TITLE     Whole-Genome Sequencing of 10 Pseudomonas syringae Strains
+            Representing Different Host Range Spectra
+  JOURNAL   Genome Announc 3 (2), e00379-15 (2015)
+   PUBMED   25931602
+  REMARK    Erratum:[Genome Announc. 2015 Jun 04;3(3):e00628-15. doi:
+            10.1128/genomeA.00628-15. PMID: 26044440] Publication Status:
+            Online-Only
+REFERENCE   2  (bases 1 to 575)
+  AUTHORS   Bartoli,C., Carrere,S., Lamichhane,J.R., Varvaro,L. and Morris,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2015) Laboratoire des Interactions Plantes
+            Micro-organismes, INRA/CNRS, Chemin de Borderouge, Castanet-Tolosan
+            31200, France
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Date                     :: 11-FEB-2015
+            Assembly Method :: Velvet v. 1.2.02; SOAPdenovo v. 2.04
+            Assembly Name                     :: PSMCFBP1657-G1
+            Genome Representation             :: Full
+            Expected Final Version            :: No
+            Genome Coverage                   :: 147.0x
+            Sequencing Technology             :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI RefSeq
+            Annotation Name                   :: GCF_000935725.1-RS_2025_04_07
+            Annotation Date                   :: 04/07/2025 00:33:04
+            Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline
+            (PGAP)
+            Annotation Method :: Best-placed reference protein set; GeneMarkS-2+
+            Annotation Software revision      :: 6.10
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA
+            Genes (total)                     :: 5,459
+            CDSs (total)                      :: 5,396
+            Genes (coding)                    :: 5,164
+            CDSs (with protein)               :: 5,164
+            Genes (RNA)                       :: 63
+            rRNAs                             :: 2, 1, 1 (5S, 16S, 23S)
+            complete rRNAs                    :: 2, 1 (5S, 16S)
+            partial rRNAs                     :: 1 (23S)
+            tRNAs                             :: 55
+            ncRNAs                            :: 4
+            Pseudo Genes (total)              :: 232
+            CDSs (without protein)            :: 232
+            Pseudo Genes (ambiguous residues) :: 0 of 232
+            Pseudo Genes (frameshifted)       :: 59 of 232
+            Pseudo Genes (incomplete)         :: 177 of 232
+            Pseudo Genes (internal stop)      :: 32 of 232
+            Pseudo Genes (multiple problems)  :: 33 of 232
+            ##Genome-Annotation-Data-END##
+            REFSEQ INFORMATION: The reference sequence is identical to
+            JYHH01000135.1.
+            The annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (PGAP). Information about PGAP can be found here:
+            https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+FEATURES             Location/Qualifiers
+     source          1..575
+                     /organism="Pseudomonas syringae pv. maculicola"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="CFBP1657136"
+                     /strain="CFBP 1657"
+                     /host="Brassica oleracea var. botrytis"
+                     /culture_collection="CFBP:1657"
+                     /type_material="pathotype strain of Pseudomonas syringae
+                     pv. maculicola"
+                     /db_xref="taxon:59511"
+                     /geo_loc_name="New Zealand"
+                     /collection_date="1965-03-01"
+                     /pathovar="maculicola"
+     gene            complement(<1..>575)
+                     /locus_tag="PSMCFBP1657_RS26595"
+     CDS             complement(<1..>575)
+                     /locus_tag="PSMCFBP1657_RS26595"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005770143.1"
+                     /GO_component="GO:0033104 - type VI protein secretion
+                     system complex [Evidence IEA]"
+                     /GO_process="GO:0033103 - protein secretion by the type VI
+                     secretion system [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="type VI secretion system Vgr family protein"
+                     /protein_id="WP_044394274.1"
+                     /translation="LDHYSHGTFADGEHLVRQRLEAIEVQGKTFTGQSNCRAMYPGHTF
+                     ELTQHFDHDRGSAEDRRFLLLSVRHEGCNNYLSDEDAGYTNEFECIRHKIPYRHPITVP
+                     RPLIHGPHTAIVVGPQGEEVFTDELARIQIRFHWQRGDSLPQGTTWLRVAMPSAGSGFG
+                     HQFLPRIGQEVLVTFVAGDIDRPLVTSVV"
+CONTIG      join(JYHH01000135.1:1..575)
+//
+LOCUS       PV524650                2773 bp    DNA     circular VRL 26-APR-2025
+DEFINITION  Tomato yellow leaf curl virus isolate Gimje1(R), complete genome.
+ACCESSION   PV524650
+VERSION     PV524650.1
+KEYWORDS    .
+SOURCE      Tomato yellow leaf curl virus (TYLCV)
+  ORGANISM  Tomato yellow leaf curl virus
+            Viruses; Monodnaviria; Shotokuvirae; Cressdnaviricota;
+            Repensiviricetes; Geplafuvirales; Geminiviridae; Begomovirus.
+REFERENCE   1  (bases 1 to 2773)
+  AUTHORS   Kwak,M., Kil,E.-J., Son,M., Bae,M. and Hyun,H.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2025) Department of Plant Medicals, Gyeongkuk
+            National University, 1375 Gyeongdong-ro, Andong 36729, Republic of
+            Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC genomics workbench v. 24.0.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2773
+                     /organism="Tomato yellow leaf curl virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Gimje1(R)"
+                     /host="Solanum lycopersicum"
+                     /db_xref="taxon:10832"
+                     /geo_loc_name="South Korea"
+                     /collection_date="Feb-2021"
+     CDS             147..497
+                     /codon_start=1
+                     /product="V2"
+                     /protein_id="XRO49739.1"
+                     /translation="MWDPLLNEFPESVHGFRCMLAIKYLQSVEETYEPNTLGHDLIRDL
+                     ISVVRARDYVEASRRYNHFHSRLEGSPKAELRQPIQHPCCCPHCPRHKQATIMDVQAHV
+                     PKAQNIQNVSKP"
+     CDS             307..1083
+                     /codon_start=1
+                     /product="V1"
+                     /protein_id="XRO49740.1"
+                     /translation="MSKRPGDIIISTPVSKVRRRLNFDSPYSTRAAVPIVQGTNKRRSW
+                     TYRPMYRKPRIYRMYRSPDVPRGCEGPCKVQSYEQRDDIKHTGIVRCVSDVTRGSGITH
+                     RVGKRFCVKSIYFLGKVWMDENIKKQNHTNQVMFFLVRDRRPYGSSPMDFGQVFNMFDN
+                     EPSTATVKNDLRDRFQVMRKFHATVIGGPSGMKEQALVKRFFKINSHVTYNHQEAAKYE
+                     NHTENALLLYMACTHASNPVYATMKIRIYFYDSISN"
+     CDS             complement(1080..1484)
+                     /codon_start=1
+                     /product="C3"
+                     /protein_id="XRO49741.1"
+                     /translation="MDSRTGELITAPQAENGVFIWEINNPLYFKITEHSQRPFLMNHDI
+                     ISIQIRFNHNIRKVLGIHKCFLNFRIWTTLHPQTGHFLRVFRYEVLKYLDSLGVISINN
+                     VIRSVDHVLYDVLENTINVTETHDIKYKFY"
+     CDS             complement(1225..1632)
+                     /codon_start=1
+                     /product="C2"
+                     /protein_id="XRO49742.1"
+                     /translation="MQPSSPSTSHCSQVSIKVQHKIAKKKPIRRKRVDLDCGCSYYLHL
+                     NCNNHGFTHRGTHHCSSGREWRFYLGDKQSPLFQDNRTQPEAISNEPRHHFHSDKIQPQ
+                     HQEGIGDSQMFSQLPNLDDITSSDWSFLKSI"
+     CDS             complement(1541..2656)
+                     /codon_start=1
+                     /product="C1"
+                     /protein_id="XRO49743.1"
+                     /translation="MREINWYQLTKSMAPPKRFQINSKNYFLTYPHCSLTKEEALSQIE
+                     ALNTPTNKLFIRICRELHEDGSPHLHVLIQFEGKYRCTNQRFFDLVSPTRSAHFHPNIQ
+                     GAKSSSDVKTYMEKDGDVVDFGVFQVDGRSARGGCQSANDAYAEAINSGSKSSALSILR
+                     EKAPKDFVLQFHNLNSNLDRIFAPQLEEFVCPFLSSSFNQVPDELEEWVVENVVSSAAR
+                     PWRPISIVIEGDSRTGKTMWARSLGPHNYLCGHLDLSPKVYSNDAWYNVIDDVDPHYLK
+                     HFKEFMGAQRDWQSNTKYGKPIQIKGGIPTIFLCNPGPTSSYREYLDEEKNISLKNWAL
+                     KNATFVTLYEPLFASINQGPTQDSQEETNKA"
+     CDS             complement(2170..2463)
+                     /codon_start=1
+                     /product="C4"
+                     /protein_id="XRO49744.1"
+                     /translation="MGALISTSSSNSKVNTDAQINDSSISYPQLGQHISIRTFRELRAR
+                     RTLRPTWKKTETSLILEFSKSMEDQLEEVASLPTTHMPRQSTQGPSHRRCLY"
+ORIGIN
+        1 accggatggc cgcgcctttt gcttttatgt ggtccccacg agggtacaca gacgtcactg
+       61 tcaaccaatc aaattgcatc ctcaaacgtt agataagtgt tcatttgtct ttatatactt
+      121 ggtccccaag ttttttgtct tgcaatatgt gggacccact tcttaatgag tttcctgaat
+      181 ctgttcacgg atttcgttgt atgttagcta ttaaatattt gcagtccgtt gaggaaactt
+      241 acgagcccaa tacattgggc cacgatttaa ttagggatct tatatctgtt gtaagggccc
+      301 gtgactatgt cgaagcgtcc aggcgatata atcatttcca ctcccgtctc gaaggttcgc
+      361 cgaaggctga acttcgacag cccatacagc acccgtgctg ctgtccccat tgtccaaggc
+      421 acaaacaagc gacgatcatg gacgtacagg cccatgtacc gaaagcccag aatatacaga
+      481 atgtatcgaa gccctgatgt tccccgtgga tgtgaaggcc catgtaaagt ccagtcttat
+      541 gagcaacggg atgatattaa gcatactggt attgttcgtt gtgttagtga tgttactcgt
+      601 gggtctggaa ttactcacag agtgggtaag aggttctgtg ttaaatcgat atatttttta
+      661 ggaaaagtct ggatggatga aaatatcaag aagcagaatc acactaatca ggtcatgttc
+      721 ttcttagtcc gtgatagaag gccctatgga agcagcccaa tggattttgg acaggttttt
+      781 aatatgttcg ataatgagcc cagtaccgca accgtgaaga atgatttgcg ggataggttt
+      841 caagtgatga ggaaatttca tgctacagtt attggtggac cctctggaat gaaggaacag
+      901 gcattagtta agagattttt taaaattaac agtcatgtaa cttataatca tcaggaggca
+      961 gccaagtatg agaaccatac tgaaaatgcc ttgttattgt atatggcatg tacgcatgcc
+     1021 tcgaatccag tgtatgcaac tatgaaaata cgcatctatt tctatgattc aatatcaaat
+     1081 taataaaatt tatattttat atcatgagtt tctgttacat ttattgtgtt ttcaagtaca
+     1141 tcatacaata catgatcaac tgatctgatt acattgttaa tggaaattac accaagacta
+     1201 tctaaatact taagaacttc atatctaaat actcttaaga aatgaccagt ctgaggatgt
+     1261 aatgtcgtcc aaattcggaa gttgagaaaa catttgtgaa tccccaatac cttcctgatg
+     1321 ttgtggttga atcttatctg aatggaaatg atgtcgtggt tcattagaaa tggcctctgg
+     1381 ctgtgttctg ttatcttgaa atagagggga ttgtttatct cccagataaa aacgccattc
+     1441 tctgcctgag gagcagtgat gagttcccct gtgcgtgaat ccatgattat tgcagttgag
+     1501 gtggaggtag tatgagcagc cacagtctag gtctacacgc ttacgcctta ttggtttctt
+     1561 cttggctatc ttgtgttgga ccttgattga tacttgcgaa cagtggctcg tagagggtga
+     1621 cgaaggttgc attcttgaga gcccaatttt tcaaggatat gtttttttct tcgtctagat
+     1681 attccctata tgaggaggta ggtcctggat tgcagaggaa gatagtggga attccccctt
+     1741 taatttgaat gggcttcccg tactttgtgt tgctttgcca gtccctctgg gcccccataa
+     1801 attccttgaa gtgctttaaa taatgcgggt ctacgtcatc aatgacgttg taccacgcat
+     1861 cattgctgta cacctttggg cttaggtcta gatgtccaca taaataatta tgtgggccta
+     1921 gagacctggc ccacattgtt ttccctgttc tgctatcacc ctcaatgaca atacttatgg
+     1981 gtctccatgg ccgcgcagcg gaagacacga cgttctcgac gacccactct tcaagttcat
+     2041 ctggaacttg attaaaagaa gaagataaaa aaggacaaac aaattcctct aactgaggag
+     2101 caaaaatcct atctaaatta ctatttaaat tatgaaactg taaaacaaaa tcttttggag
+     2161 ctttttccct taatatagac aacgccgatg acttggaccc tgagttgatt gcctcggcat
+     2221 atgcgtcgtt ggcagactgg caacctcctc tagctgatct tccatcgact tggaaaactc
+     2281 caaaatcaac gacgtctccg tctttttcca tgtaggtctt aacgtccgac gagctcttag
+     2341 ctccctgaat gttcggatgg aaatgtgctg acctagttgg ggatacgaga tcgaagaatc
+     2401 gttgatttgt gcatctgtat ttaccttcga attggatgag gacgtggaga tgagggctcc
+     2461 catcttcgtg tagttctctg cagatcctta tgaataattt gtttgttggt gtatttaggg
+     2521 cttcgatttg ggaaagggct tcttctttgg ttagagagca gtgtgggtat gtgaggaagt
+     2581 aatttttaga atttatttga aatcttttag gtggagccat tgacttggtc aattggtacc
+     2641 aattgatctc tctcatggta tcggtacatt ggtaccaata tatatggtgg tacctaatgg
+     2701 cattcttgta atttaggaaa gtggagcgtt ctttagaaat tcaaattggt aaagcggcca
+     2761 tccgtataat att
+//
+LOCUS       PV524649                2773 bp    DNA     circular VRL 26-APR-2025
+DEFINITION  Tomato yellow leaf curl virus isolate Gimje1, complete genome.
+ACCESSION   PV524649
+VERSION     PV524649.1
+KEYWORDS    .
+SOURCE      Tomato yellow leaf curl virus (TYLCV)
+  ORGANISM  Tomato yellow leaf curl virus
+            Viruses; Monodnaviria; Shotokuvirae; Cressdnaviricota;
+            Repensiviricetes; Geplafuvirales; Geminiviridae; Begomovirus.
+REFERENCE   1  (bases 1 to 2773)
+  AUTHORS   Kwak,M., Kil,E.-J., Son,M., Bae,M. and Hyun,H.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2025) Department of Plant Medicals, Gyeongkuk
+            National University, 1375 Gyeongdong-ro, Andong 36729, Republic of
+            Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC genomics workbench v. 24.0.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2773
+                     /organism="Tomato yellow leaf curl virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Gimje1"
+                     /host="Solanum lycopersicum"
+                     /db_xref="taxon:10832"
+                     /geo_loc_name="South Korea"
+                     /collection_date="Feb-2021"
+     CDS             147..497
+                     /codon_start=1
+                     /product="V2"
+                     /protein_id="XRO49733.1"
+                     /translation="MWDPLLNEFPESVHGFRCMLAIKYLQSVEETYEPNTLGHDLIRDL
+                     ISVVRARDYVEATRRYNHFHARLEGSPKAELRQPIQHPCCCPHCPRHKQATIMDVQAHV
+                     PKAQNIQNVSKP"
+     CDS             307..1083
+                     /codon_start=1
+                     /product="V1"
+                     /protein_id="XRO49734.1"
+                     /translation="MSKRPGDIIISTPVSKVRRRLNFDSPYSTRAAVPIVQGTNKRRSW
+                     TYRPMYRKPRIYRMYRSPDVPRGCEGPCKVQSYEQRDDIKHTGIVRCVSDVTRGSGITH
+                     RVGKRFCVKSIYFLGKVWMDENIKKQNHTNQVMFFLVRDRRPYGSSPMDFGQVFNMFDN
+                     EPSTATVKNDLRDRFQVMRKFHATVIGGPSGMKEQALVKRFFKINSHVTYNHQEAAKYE
+                     NHTENALLLYMACTHASNPVYATMKIRIYFYDSISN"
+     CDS             complement(1080..1484)
+                     /codon_start=1
+                     /product="C3"
+                     /protein_id="XRO49735.1"
+                     /translation="MDSRTGELITAPQAENGVFIWEINNPLYFKITEHSQRPFLMNHDI
+                     ISIQIRFNHNIRKVMGIHKCFLNFRIWTTLHPQTGHFLRVFRYEVLKYLDSLGVISINN
+                     VIRSVDHVLYDVLENTINVTETHDIKYKFY"
+     CDS             complement(1225..1632)
+                     /codon_start=1
+                     /product="C2"
+                     /protein_id="XRO49736.1"
+                     /translation="MQPSSPSTSHCSQVSIKVQHKIAKKKPIRRKRVDLDCGCSYYLHL
+                     NCNNHGFTHRGTHHCSSGREWRFYLGDKQSPLFQDNRTQPEAISNEPRHHFHSDKIQPQ
+                     HQEGHGDSQMFSQLPNLDDITSSDWSFLKSI"
+     CDS             complement(1541..2614)
+                     /codon_start=1
+                     /product="C1"
+                     /protein_id="XRO49737.1"
+                     /translation="MPRLFNIYAKNYFLTYPNCSLSKEEALSQLTNLETPTNKKYIKVC
+                     RELHENGQPHLHVLIQFEGKYQCKNQRFFDLVSPNRSAHFHPNIQAAKSSTDVKTYVEK
+                     DGDFVDFGVFQIDGRSARGGQQSANDAYAEALNSGSKSEALNILKEKAPKDYILQFHNL
+                     SSNLDRIFSPPLEVYVSPFLSSSFNQVPDELEEWVVENVVSSAARPWRPISIVIEGDSR
+                     TGKTMWARSLGPHNYLCGHLDLSPKVYSNDAWYNVIDDVDPHYLKHFKEFMGAQRDWQS
+                     NTKYGKPIQIKGGIPTIFLCNPGPTSSYREYLDEEKNISLKNWALKNATFVTLYEPLFA
+                     SINQGPTQDSQEETNKA"
+     CDS             complement(2170..2463)
+                     /codon_start=1
+                     /product="C4"
+                     /protein_id="XRO49738.1"
+                     /translation="MGNHISMCLSNSKANTNVRTNGSSTWYPQTGQHISIRTFRQLRAQ
+                     QMSRPTWRKTETSLILEFSKSMADQLEEVSNLPTTHMPKHSIQAVNPRPSIY"
+ORIGIN
+        1 accggatggc cgcgcctttt gcttttatgt ggtccccacg agggtacaca gacgtcactg
+       61 tcaaccaatc aaattgcatc ctcaaacgtt agataagtgt tcatttgtct ttatatactt
+      121 ggtccccaag ttttttgtct tgcaatatgt gggacccact tcttaatgag tttcctgaat
+      181 ctgttcacgg atttcgttgt atgttagcta ttaaatattt gcagtccgtt gaggaaactt
+      241 acgagcccaa tacattgggc cacgatttaa ttagggatct tatatctgtt gtaagggccc
+      301 gtgactatgt cgaagcgacc aggcgatata atcatttcca cgcccgtctc gaaggttcgc
+      361 cgaaggctga acttcgacag cccatacagc acccgtgctg ctgtccccat tgtccaaggc
+      421 acaaacaagc gacgatcatg gacgtacagg cccatgtacc gaaagcccag aatatacaga
+      481 atgtatcgaa gccctgatgt tccccgtgga tgtgaaggcc catgtaaagt ccagtcttat
+      541 gagcaacggg atgatattaa gcatactggt attgttcgtt gtgttagtga tgttactcgt
+      601 ggatctggaa ttactcacag agtgggtaag aggttctgtg ttaaatcgat atatttttta
+      661 gggaaagtct ggatggatga aaatatcaag aagcagaatc acactaatca ggtcatgttc
+      721 ttcttagtcc gtgatagaag gccctatgga agcagcccaa tggattttgg acaggttttt
+      781 aatatgttcg ataatgagcc cagtaccgca accgtgaaga atgatttgcg ggataggttt
+      841 caagtgatga ggaaatttca tgctacagtt attggtggac cctctggaat gaaggaacag
+      901 gcattagtta agagattttt taaaattaac agtcatgtaa cttataatca tcaggaggca
+      961 gccaagtatg agaaccatac tgaaaatgcc ttgttattgt atatggcatg tacgcatgcc
+     1021 tcgaatccag tgtatgcaac tatgaaaata cgcatctatt tctatgattc aatatcaaat
+     1081 taataaaatt tatattttat atcatgagtt tctgttacat ttattgtgtt ttcaagtaca
+     1141 tcatacaata catgatcaac tgatctgatt acattgttaa tggaaattac accaagacta
+     1201 tctaaatact taagaacttc atatctaaat actcttaaga aatgaccagt ctgaggatgt
+     1261 aatgtcgtcc aaattcggaa gttgagaaaa catttgtgaa tccccatgac cttcctgatg
+     1321 ttgtggttga atcttatctg aatggaaatg atgtcgtggt tcattagaaa tggcctctgg
+     1381 ctgtgttctg ttatcttgaa atagagggga ttgtttatct cccagataaa aacgccattc
+     1441 tctgcctgag gagcagtgat gagttcccct gtgcgtgaat ccatgattat tgcagttgag
+     1501 gtggaggtag tatgagcagc cacagtctag gtctacacgc ttacgcctta ttggtttctt
+     1561 cttggctatc ttgtgttgga ccttgattga tacttgcgaa cagtggctcg tagagggtga
+     1621 cgaaggttgc attcttgaga gcccaatttt tcaaggatat gtttttttct tcgtctagat
+     1681 attccctata tgaggaggta ggtcctggat tgcagaggaa gatagtggga attccccctt
+     1741 taatttgaat gggcttcccg tactttgtgt tgctttgcca gtccctctgg gcccccataa
+     1801 attccttgaa gtgctttaaa taatgcgggt ctacgtcatc aatgacgttg taccacgcat
+     1861 cattgctgta cacctttggg cttaggtcta gatgtccaca taaataatta tgtgggccta
+     1921 gagacctggc ccacattgtt ttccctgttc tgctatcacc ctcaatgaca atacttatgg
+     1981 gtctccatgg ccgcgcagcg gaagacacga cgttctcgac gacccactct tcaagttcat
+     2041 ctggaacttg attaaaagaa gaagaaagaa atggagaaac ataaacttct aaaggaggac
+     2101 taaaaatcct atctaaattt gaacttaaat tatgaaattg taaaatatag tcctttgggg
+     2161 ccttctcttt taatatattg agggcctcgg atttactgcc tgaattgagt gcttcggcat
+     2221 atgcgtcgtt ggcagattgc tgacctcctc tagctgatct gccatcgatt tggaaaactc
+     2281 caaaatcaac gaagtctccg tctttctcca cgtaggtctt gacatctgtt gagctcttag
+     2341 ctgcctgaat gttcggatgg aaatgtgctg acctgtttgg ggataccagg tcgaagaacc
+     2401 gttggttctt acattggtat ttgccttcga attggataag cacatggaga tgtggttgcc
+     2461 cattctcgtg gagttctctg caaactttga tgtatttttt atttgttggg gtttctaggt
+     2521 ttgttaattg ggaaagggct tcctctttag agagagaaca attgggatat gttaggaaat
+     2581 aatttttggc atatatatta aataaacgag gcatgttgaa atgaatcggt gtccctcaaa
+     2641 gctctatggc aatcggtgta tcggtgtctt acttatacct ggacaccgaa tggctatttg
+     2701 gtaatttcat gaatgttcat tgtaattcaa aattcaaaaa tcaaatcatt aaagcggcca
+     2761 tccgtataat att
+//
+LOCUS       PV524648                2774 bp    DNA     circular VRL 26-APR-2025
+DEFINITION  Tomato yellow leaf curl virus isolate Jangseong1, complete genome.
+ACCESSION   PV524648
+VERSION     PV524648.1
+KEYWORDS    .
+SOURCE      Tomato yellow leaf curl virus (TYLCV)
+  ORGANISM  Tomato yellow leaf curl virus
+            Viruses; Monodnaviria; Shotokuvirae; Cressdnaviricota;
+            Repensiviricetes; Geplafuvirales; Geminiviridae; Begomovirus.
+REFERENCE   1  (bases 1 to 2774)
+  AUTHORS   Kwak,M., Kil,E.-J., Son,M., Bae,M. and Hyun,H.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2025) Department of Plant Medicals, Gyeongkuk
+            National University, 1375 Gyeongdong-ro, Andong 36729, Republic of
+            Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC genomics workbench v. 24.0.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2774
+                     /organism="Tomato yellow leaf curl virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Jangseong1"
+                     /host="Solanum lycopersicum"
+                     /db_xref="taxon:10832"
+                     /geo_loc_name="South Korea"
+                     /collection_date="Feb-2021"
+     CDS             148..498
+                     /codon_start=1
+                     /product="V2"
+                     /protein_id="XRO49727.1"
+                     /translation="MWDPLLNEFPESVHGFRCMLAIKYLQSVEETYEPNTLGHDLIRDL
+                     ISVVRARDYVEATRRYNHFHARLEGSPKAELRQPIQQPCCCPHCPRHKQATIMDVQAHV
+                     PKAQNIQNVSKP"
+     CDS             308..1084
+                     /codon_start=1
+                     /product="V1"
+                     /protein_id="XRO49728.1"
+                     /translation="MSKRPGDIIISTPVSKVRRRLNFDSPYSSRAAVPIVQGTNKRRSW
+                     TYRPMYRKPRIYRMYRSPDVPRGCEGPCKVQSYEQRDDIKHTGIVRCVSDVTRGSGITH
+                     RVGKRFCVKSIYFLGKVWMDENIKKQNHTNQVMFFLVRDRRPYGSSPMDFGQVFNMFDN
+                     EPSTATVKNDLRDRFQVMRKFHATVIGGPSGMKEQALVKRFFKINSHVTYNHQEAAKYE
+                     NHTENALLLYMACTHASNPVYATMKIRIYFYDSISN"
+     CDS             complement(1081..1485)
+                     /codon_start=1
+                     /product="C3"
+                     /protein_id="XRO49729.1"
+                     /translation="MDSRTGELITAPQAENGVFIWEINNPLYFKITEHSQRPFLMNHDI
+                     IYIQIRFNHNIRKVLGIHKCFLNFRIWTTLQPQTGRFLRVFRYQVLKYLDSLGVISINN
+                     VIRAVDHVLYDVLENTINVTETHEIKYKFY"
+     CDS             complement(1226..1633)
+                     /codon_start=1
+                     /product="C2"
+                     /protein_id="XRO49730.1"
+                     /translation="MQPSSPSTSHCSQVSIKVQHKIAKKKPIRRKRVDLDCGCSYYLHL
+                     NCNNHGFTHRGTHHCSSSREWRFYLGDKQSPLFQDNRTQPEAISNEPRHHLHSDKIQPQ
+                     HQEGIGDSQMFSQLPNLDDITASDWSFLKSI"
+     CDS             complement(1542..2615)
+                     /codon_start=1
+                     /product="C1"
+                     /protein_id="XRO49731.1"
+                     /translation="MPRLFKIYAKNYFLTYPNCSLSKEEALSQLKNLETPTNKKYIKVC
+                     KELHENGEPHLHVLIQFEGKYQCKNQRFFDLVSPNRSAHFHPNIQAAKSSTDVKTYMEK
+                     DGDFIDFGVFQIDGRSARGGQQSANDAYAEALNSGSKSEALNILKEKAPKDYILQFHNL
+                     SSNLDRIFSPPLEVYVSPFLSSSFNQVPDELEEWVAENVVSSAARPWRPISIIIEGDSR
+                     TGKTMWARSLGPHNYLCGHLDLSPKVYSNDAWYNVIDDVDPHYLKHFKEFMGAQRDWQS
+                     NTKYGKPIQIKGGIPTIFLCNPGPTSSYREYLDEEKNISLKNWALKNATFVTLYEPLFA
+                     SINQGPTQDSQEETNKA"
+     CDS             complement(2171..2464)
+                     /codon_start=1
+                     /product="C4"
+                     /protein_id="XRO49732.1"
+                     /translation="MGNHISMCLSNSKANTNVRTNGSSTWYPQTGQHISIRTFRQLRAQ
+                     QMSRPTWRKTETSLILEFSKSMADQLEEVSNLPTTHMPKHSIQAVNPRPSIY"
+ORIGIN
+        1 accggatggc cgcgcctttt gcttttatgt ggtccccgcg agggttacac agacgtcact
+       61 gtcaaccaat caaattgcat cctcaaacgt tagataagtg ttcatttgtc tttatatact
+      121 tggtccccaa gttttttgtc ttgcaatatg tgggacccac ttcttaatga gtttcctgaa
+      181 tctgttcacg gatttcgttg tatgttagct attaaatatt tgcagtccgt tgaggaaact
+      241 tacgagccca atacattggg ccacgattta attagggatc ttatatctgt tgtaagggcc
+      301 cgtgactatg tcgaagcgac caggcgatat aatcatttcc acgcccgtct cgaaggttcg
+      361 ccgaaggctg aacttcgaca gcccatacag cagccgtgct gctgtcccca ttgtccaagg
+      421 cacaaacaag cgacgatcat ggacgtacag gcccatgtac cgaaagccca gaatatacag
+      481 aatgtatcga agccctgatg ttccccgtgg atgtgaaggc ccatgtaaag tccagtctta
+      541 tgagcaacgg gatgatatta agcatactgg tattgttcgt tgtgttagtg atgttactcg
+      601 tggatctgga attactcaca gagtgggtaa gaggttctgt gttaaatcga tatatttttt
+      661 agggaaagtc tggatggatg aaaatattaa gaagcagaat cacactaatc aggtcatgtt
+      721 cttcttagtc cgtgatagaa ggccctatgg aagcagccca atggattttg gacaggtttt
+      781 taatatgttc gataatgagc ccagtaccgc aaccgtgaag aatgatttgc gggataggtt
+      841 tcaagtgatg aggaaatttc atgctacagt tattggtgga ccctctggaa tgaaggaaca
+      901 ggcattagtt aagagatttt ttaaaattaa cagtcatgta acttataatc atcaggaggc
+      961 agccaagtat gagaaccata ctgaaaacgc cttgttattg tatatggcat gtacgcatgc
+     1021 ctctaatcca gtgtatgcaa ctatgaaaat acgcatctat ttctatgatt caatatcaaa
+     1081 ttaataaaat ttatatttta tttcatgagt ttctgttaca tttattgtgt tttcaagtac
+     1141 atcatacaat acatgatcaa ctgctctgat tacattatta attgaaatta caccaagact
+     1201 atctaaatac ttaagaactt gatatctaaa tactcttaag aaacgaccag tctgaggctg
+     1261 taatgtcgtc caaattcgga agttgagaaa acatttgtga atccccaata ccttcctgat
+     1321 gttgtggttg aatcttatct gaatgtaaat gatgtcgtgg ttcattagaa atggcctctg
+     1381 gctgtgttct gttatcttga aatagagggg attgtttatc tcccagataa aaacgccatt
+     1441 ctctgcttga ggagcagtga tgagttcccc tgtgcgtgaa tccatgatta ttgcagttga
+     1501 ggtggaggta gtatgagcag ccacagtcta ggtctacacg cttacgcctt attggtttct
+     1561 tcttggctat cttgtgttgg accttgattg atacttgcga acagtggctc gtagagggtg
+     1621 acgaaggttg cattcttgag agcccaattt ttcaaggata tgtttttttc ttcgtctaga
+     1681 tattccctat atgaggaggt aggtcctgga ttgcagagga agatagtggg aattccccct
+     1741 ttaatttgaa tgggcttccc gtactttgtg ttgctttgcc agtccctttg ggcccccatg
+     1801 aattccttga agtgctttaa ataatgcggg tctacgtcat caatgacgtt gtaccacgca
+     1861 tcattgctgt acacctttgg gcttaggtct agatgtccac ataaataatt atgtgggcct
+     1921 agagacctgg cccacattgt tttccctgtt ctgctatcac cctcaatgat aatacttatg
+     1981 ggtctccatg gccgcgcagc ggaagacacg acgttctcgg cgacccactc ttcaagttca
+     2041 tctggaactt gattaaaaga agaagaaaga aatggagaaa cataaacttc taaaggagga
+     2101 ctaaaaatcc tatctaaatt tgaacttaaa ttatgaaatt gtaaaatata gtcctttggg
+     2161 gccttctctt ttaatatatt gagggcctcg gatttactgc ctgaattgag tgcttcggca
+     2221 tatgcgtcgt tggcagattg ctgacctcct ctagctgatc tgccatcgat ttggaaaact
+     2281 ccaaaatcaa tgaagtctcc gtctttctcc atgtaggtct tgacatctgt tgagctctta
+     2341 gctgcctgaa tgttcggatg gaaatgtgct gacctgtttg gggataccag gtcgaagaac
+     2401 cgttggttct tacattggta tttgccttcg aattggataa gcacatggag atgtggttcc
+     2461 ccattctcgt ggagttcttt gcaaactttg atgtattttt tatttgttgg ggtttctagg
+     2521 ttttttaatt gggaaagtgc ttcctcttta gagagagaac aattgggata tgttaggaaa
+     2581 taatttttgg catatatctt aaataaacga ggcatgttga aatgaatcgg tgtccctcaa
+     2641 agctctatgg caatcggtgt atcggtgtct tacttatacc tggacaccta atggctattt
+     2701 ggtaatttca tgaatgttca ttataattca aaattcaaaa atcaaatcat taaagcggcc
+     2761 atccgtataa tatt
+//
+LOCUS       PV524647                2774 bp    DNA     circular VRL 26-APR-2025
+DEFINITION  Tomato yellow leaf curl virus isolate Jangseong1(R), complete
+            genome.
+ACCESSION   PV524647
+VERSION     PV524647.1
+KEYWORDS    .
+SOURCE      Tomato yellow leaf curl virus (TYLCV)
+  ORGANISM  Tomato yellow leaf curl virus
+            Viruses; Monodnaviria; Shotokuvirae; Cressdnaviricota;
+            Repensiviricetes; Geplafuvirales; Geminiviridae; Begomovirus.
+REFERENCE   1  (bases 1 to 2774)
+  AUTHORS   Kwak,M., Kil,E.-J., Son,M., Bae,M. and Hyun,H.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2025) Department of Plant Medicals, Gyeongkuk
+            National University, 1375 Gyeongdong-ro, Andong 36729, Republic of
+            Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC genomics workbench v. 24.0.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2774
+                     /organism="Tomato yellow leaf curl virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Jangseong1(R)"
+                     /host="Solanum lycopersicum"
+                     /db_xref="taxon:10832"
+                     /geo_loc_name="South Korea"
+                     /collection_date="Feb-2021"
+     CDS             149..499
+                     /codon_start=1
+                     /product="V2"
+                     /protein_id="XRO49721.1"
+                     /translation="MWDPLLNEFPESVHGFRCMLAIKYLQSVEETYEPNTLGHDLIRDL
+                     ISVVRARDYVEATRRYNHFHARLEGSPKAELRQPIQQPCCCPHCPRHKQATIMDVQAHV
+                     PKAQNIQNVSKP"
+     CDS             309..1085
+                     /codon_start=1
+                     /product="V1"
+                     /protein_id="XRO49722.1"
+                     /translation="MSKRPGDIIISTPVSKVRRRLNFDSPYSSRAAVPIVQGTNKRRSW
+                     TYRPMYRKPRIYRMYRSPDVPRGCEGPCKVQSYEQRDDIKHTGIVRCVSDVTRGSGITH
+                     RVGKRFCVKSIYFLGKVWMDENIKKQNHTNQVMFFLVRDRRPYGNSPMDFGQVFNMFDN
+                     EPSTATVKNDLRDRFQVMRKFHATVIGGPSGMKEQALVKRFFKINSHVTYNHQEAAKYE
+                     NHTENALLLYMACTHASNPVYATMKIRIYFYDSISN"
+     CDS             complement(1082..1486)
+                     /codon_start=1
+                     /product="C3"
+                     /protein_id="XRO49723.1"
+                     /translation="MDSRTGELITAPQAENGVFIWEINNPLYFKITEHSQRPFLMNHDI
+                     IYIQIRFNHNIRKVLGIHKCFLNFRIWTTLQPQTGRFLRVFRYQVLKYLDSLGVISINN
+                     VIRAVDHVLYDVLENTINVTETHEIKYKFY"
+     CDS             complement(1227..1634)
+                     /codon_start=1
+                     /product="C2"
+                     /protein_id="XRO49724.1"
+                     /translation="MQPSSPSTSHCSQVSIKVQHKIAKKKPIRRKRVDLDCGCSYYLHL
+                     NCNNHGFTHRGTHHCSSSREWRFYLGDKQSPLFQDNRTQPEAISNEPRHHLHSDKIQPQ
+                     HQEGIGDSQMFSQLPNLDDITASDWSFLKSI"
+     CDS             complement(1543..2622)
+                     /codon_start=1
+                     /product="C1"
+                     /protein_id="XRO49725.1"
+                     /translation="MAPPKRFKINSKNYFLTYPHCSLTKEEALSQIQALETPTNKLFIR
+                     ICRELHEDGSPHLHVLIQFEGKYQCTNQRFFDLVSPSRSAHFHPNIQGAKSSSDVKTYM
+                     EKDGDVVDFGVFQVDGRSARGGCQSANDAYAEAINSGSKSSAMSILREKAPKDFVLQFH
+                     NLNSNLDRIFSPPLEVYVSPFLSSSFNQVPDELEEWVAENVVSSAARPWRPISIIIEGD
+                     SRTGKTMWARSLGPHNYLCGHLDLSPKVYSNDAWYNVIDDVDPHYLKHFKEFMGAQRDW
+                     QSNTKYGKPIQIKGGIPTIFLCNPGPTSSYREYLDEEKNISLKNWALKNATFVTLYEPL
+                     FASINQGPTQDSQEETNKA"
+     CDS             complement(2172..2465)
+                     /codon_start=1
+                     /product="C4"
+                     /protein_id="XRO49726.1"
+                     /translation="MGALISTSSSNSKENINAQINDSSISYPHLGQHISIQTFRELRAR
+                     QMSRPTWKKTETSLILEFSRSMEDQLEEVASLPTTHMPRQSTQGLNHRPCLY"
+ORIGIN
+        1 accggatggc cgcgcctttt gcttttatgt ggtccccgcg agggtttaca cagacgtcac
+       61 tgtcaaccaa tcaaattgca tcctcaaacg ttagataagt gttcatttgt ctttatatac
+      121 ttggtcccca agttttttgt cttgcaatat gtgggaccca cttcttaatg agtttcctga
+      181 atctgttcac ggatttcgtt gtatgttagc tattaaatat ttgcagtccg ttgaggaaac
+      241 ttacgagccc aatacattgg gccacgattt aattagggat cttatatctg ttgtaagggc
+      301 ccgtgactat gtcgaagcga ccaggcgata taatcatttc cacgcccgtc tcgaaggttc
+      361 gccgaaggct gaacttcgac agcccataca gcagccgtgc tgctgtcccc attgtccaag
+      421 gcacaaacaa gcgacgatca tggacgtaca ggcccatgta ccgaaagccc agaatataca
+      481 gaatgtatcg aagccctgat gttccccgtg gatgtgaagg cccatgtaaa gtccagtctt
+      541 atgagcaacg ggatgatatt aagcatactg gtattgttcg ttgtgttagt gatgttactc
+      601 gtggatctgg aattactcac agagtgggta agaggttctg tgttaaatcg atatattttt
+      661 tagggaaagt ctggatggat gaaaatatta agaagcagaa tcacactaat caggtcatgt
+      721 tcttcttagt ccgtgataga aggccctatg gtaacagccc aatggatttt ggacaggttt
+      781 ttaatatgtt cgataatgag ccgagtaccg caaccgtgaa gaatgatttg cgggataggt
+      841 ttcaagtgat gaggaaattt catgctacag ttattggtgg accctctgga atgaaggaac
+      901 aggcattagt taagagattt tttaaaatta acagtcatgt aacttataat catcaggagg
+      961 cagccaagta tgagaaccat actgaaaacg ccttgttatt gtatatggca tgtacgcatg
+     1021 cctctaatcc agtgtatgca actatgaaaa tacgcatcta tttctatgat tcaatatcaa
+     1081 attaataaaa tttatatttt atttcatgag tttctgttac atttattgtg ttttcaagta
+     1141 catcatacaa tacatgatca actgctctga ttacattatt aattgaaatt acaccaagac
+     1201 tatctaaata cttaagaact tgatatctaa atactcttaa gaaacgacca gtctgaggct
+     1261 gtaatgtcgt ccaaattcgg aagttgagaa aacatttgtg aatccccaat accttcctga
+     1321 tgttgtggtt gaatcttatc tgaatgtaaa tgatgtcgtg gttcattaga aatggcctct
+     1381 ggctgtgttc tgttatcttg aaatagaggg gattgtttat ctcccagata aaaacgccat
+     1441 tctctgcttg aggagcagtg atgagttccc ctgtgcgtga atccatgatt attgcagttg
+     1501 aggtggaggt agtatgagca gccacagtct aggtctacac gcttacgcct tattggtttc
+     1561 ttcttggcta tcttgtgttg gaccttgatt gatacttgcg aacagtggct cgtagagggt
+     1621 gacgaaggtt gcattcttga gagcccaatt tttcaaggat atgttttttt cttcgtctag
+     1681 atattcccta tatgaggagg taggtcctgg attgcagagg aagatagtgg gaattccccc
+     1741 tttaatttga atgggcttcc cgtactttgt gttgctttgc cagtcccttt gggcccccat
+     1801 gaattccttg aagtgcttta aataatgcgg gtctacgtca tcaatgacgt tgtaccacgc
+     1861 atcattgctg tacacctttg ggcttaggtc tagatgtcca cataaataat tatgtgggcc
+     1921 tagagacctg gcccacattg ttttccctgt tctgctatca ccctcaatga taatacttat
+     1981 gggtctccat ggccgcgcag cggaagacac gacgttctcg gcgacccact cttcaagttc
+     2041 atctggaact tgattaaaag aagaagaaag aaatggagaa acataaactt ctaaaggagg
+     2101 actaaaaatc ctatctaaat tactgtttaa attatgaaat tgtaaaacaa aatctttggg
+     2161 agctttctcc cttaatatag acatggccga tgatttagac cctgagttga ttgcctcggc
+     2221 atatgcgtcg ttggcagact ggcaacctcc tctagctgat cttccatcga cctggaaaac
+     2281 tccaaaatca acgacgtctc cgtctttttc catgtaggtc ttgacatctg acgagctctt
+     2341 agctccctga atgtttggat ggaaatgtgc tgacctagat ggggatacga gatcgaagaa
+     2401 tcgttgattt gtgcattgat attttccttc gaattggatg aggacgtgga gatgagggct
+     2461 cccatcttcg tgtagttctc tgcagattcg gatgaataat ttatttgttg gtgtttctag
+     2521 ggcttgaatt tgggaaaggg cttcttcttt ggttagagag cagtgtgggt atgtgaggaa
+     2581 ataatttttg ctatttattt taaaacgctt tggtggtgcc atatttacaa atatgccctt
+     2641 gtaccccgat tcggagagaa ttcttctttg ctgtgtatcg gtgtaatggg gtacaatata
+     2701 tactccttat gtttttactt ttgaattttg aaattcaaaa ttcaaattgg taaagcggcc
+     2761 atccgtataa tatt
+//
+LOCUS       PV524646                2774 bp    DNA     circular VRL 26-APR-2025
+DEFINITION  Tomato yellow leaf curl virus isolate Damyang1, complete genome.
+ACCESSION   PV524646
+VERSION     PV524646.1
+KEYWORDS    .
+SOURCE      Tomato yellow leaf curl virus (TYLCV)
+  ORGANISM  Tomato yellow leaf curl virus
+            Viruses; Monodnaviria; Shotokuvirae; Cressdnaviricota;
+            Repensiviricetes; Geplafuvirales; Geminiviridae; Begomovirus.
+REFERENCE   1  (bases 1 to 2774)
+  AUTHORS   Kwak,M., Kil,E.-J., Son,M., Bae,M. and Hyun,H.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2025) Department of Plant Medicals, Gyeongkuk
+            National University, 1375 Gyeongdong-ro, Andong 36729, Republic of
+            Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC genomics workbench v. 24.0.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2774
+                     /organism="Tomato yellow leaf curl virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Damyang1"
+                     /host="Solanum lycopersicum"
+                     /db_xref="taxon:10832"
+                     /geo_loc_name="South Korea"
+                     /collection_date="Feb-2021"
+     CDS             148..498
+                     /codon_start=1
+                     /product="V2"
+                     /protein_id="XRO49715.1"
+                     /translation="MWDPLLNEFPESVHGFRCMLAIKYLQSVEETYEPNTLGHDLIRDL
+                     ISVVRARDYVEATRRYNHFHARLEGSPKAELRQPIQQPCCCPHCPRHKQATIMDVQAHV
+                     PKAQNIQNVSKP"
+     CDS             308..1084
+                     /codon_start=1
+                     /product="V1"
+                     /protein_id="XRO49716.1"
+                     /translation="MSKRPGDIIISTPVSKVRRRLNFDSPYSSRAAVPIVQGTNKRRSW
+                     TYRPMYRKPRIYRMYRSPDVPRGCEGPCKVQSYEQRDDIKHTGIVRCVSDVTRGSGITH
+                     RVGKRFCVKSIYFLGKVWMDENIKKQNHTNQVMFFLVRDRRPYGNSPMDFGQVFNMFDN
+                     EPSTATVKNDLRDRFQVMRKFHATVIGGPSGMKEQALVKRFFKINSHVTYNHQEAAKYE
+                     NHTENALLLYMACTHASNPVYATMKIRIYFYDSISN"
+     CDS             complement(1081..1485)
+                     /codon_start=1
+                     /product="C3"
+                     /protein_id="XRO49717.1"
+                     /translation="MDSRTGELITAPQAENGVFIWEINNPLYFKITEHSQRPFLMNHDI
+                     ISIQIRFNHNIRKVLGIHKCFLNFRIWTTLQPQTGRFLRVFRYQVLKYLDSLGVISINN
+                     VIRAVDHVLYDVLENTINVTETHDIKYKFY"
+     CDS             complement(1226..1633)
+                     /codon_start=1
+                     /product="C2"
+                     /protein_id="XRO49718.1"
+                     /translation="MQPSSPSTSHCSQVSIKVQHKIAKKKPIRRKRVDLDCGCSYYLHL
+                     NCNNHGFTHRGTHHCSSSREWRFYLGDKQSPLFQDNRTQPEAISNEPRHHFHSDKIQPQ
+                     HQEGIGDSQMFSQLPNLDDITASDWSFLKSI"
+     CDS             complement(1542..2615)
+                     /codon_start=1
+                     /product="C1"
+                     /protein_id="XRO49719.1"
+                     /translation="MPRLFKIYAKNYFLTYPNCSLSKEEALSQLKNLETPTNKKYIKVC
+                     KELHENGEPHLHVLIQFEGKYQCKNQRFFDLVSPNRSAHFHPNIQAAKSSTDVKTYVEK
+                     DGDFIDFGVFQIDGRSARGGQQSANDAYAEALNSGSKSEALNILKEKAPKDYILQFHNL
+                     SSNLDRIFSPPLEVYVSPFLSSSFNQVPDELEEWVAENVVSSAARPWRPISIVIEGDSR
+                     TGKTMWARSLGPHNYLCGHLDLSPKVYSNDAWYNVIDDVDPHYLKHFKEFMGAQRDWQS
+                     NTKYGKPIQIKGGIPTIFLCNPGPTSSYREYLDEEKNISLKNWALKNATFVTLYEPLFA
+                     SINQGPTQDSQEETNKA"
+     CDS             complement(2171..2464)
+                     /codon_start=1
+                     /product="C4"
+                     /protein_id="XRO49720.1"
+                     /translation="MGNHISMCLSNSKANTNVRTNGSSTWYPQTGQHISIRTFRQLRAQ
+                     QMSRPTWRKTETSLILEFSKSMADQLEEVSNLPTTHMPKHSIQAVNPRPSIY"
+ORIGIN
+        1 accggatggc cgcgcctttt ccttttatgt ggtccccacg agggttacac agacgtcact
+       61 gtcaaccaat caaattgcat cctcaaacgt tagataagtg ttcatttgtc tttatatact
+      121 tggtccccaa gttttttgtc ttgcaatatg tgggacccac ttcttaatga gtttcctgaa
+      181 tctgttcacg gatttcgttg tatgttagct attaaatatt tgcagtccgt tgaggaaact
+      241 tacgagccca atacattggg ccacgattta attagggatc ttatatctgt tgtaagggcc
+      301 cgtgactatg tcgaagcgac caggcgatat aatcatttcc acgcccgtct cgaaggttcg
+      361 ccgaaggctg aacttcgaca gcccatacag cagccgtgct gctgtcccca ttgtccaagg
+      421 cacaaacaag cgacgatcat ggacgtacag gcccatgtac cgaaagccca gaatatacag
+      481 aatgtatcga agccctgatg ttccccgtgg atgtgaaggc ccatgtaaag tccagtctta
+      541 tgagcaacgg gatgatatta agcatactgg tattgttcgt tgtgttagtg atgttactcg
+      601 tggatctgga attactcaca gagtgggtaa gaggttctgt gttaaatcga tatatttttt
+      661 agggaaagtc tggatggatg aaaatattaa gaagcagaat cacactaatc aggtcatgtt
+      721 cttcttggtt cgtgatagaa ggccctatgg aaacagccca atggattttg gacaggtttt
+      781 taatatgttc gataatgagc cgagtaccgc aaccgtgaag aatgatttgc gggataggtt
+      841 tcaagtgatg aggaaatttc atgctacagt tattggtggg ccctctggaa tgaaggaaca
+      901 ggcattagtt aagagatttt ttaaaattaa cagtcatgta acttataatc atcaggaggc
+      961 agccaagtat gagaaccata ctgaaaacgc cttgttattg tatatggcat gtacgcatgc
+     1021 ctctaatcca gtgtatgcaa ctatgaaaat acgcatctat ttctatgatt caatatcaaa
+     1081 ttaataaaat ttatatttta tatcatgagt ttctgttaca tttattgtgt tttcaagtac
+     1141 atcatacaat acatgatcaa ctgctctgat tacattgtta attgaaatta caccaagact
+     1201 atctaaatac ttaagaactt gatatctaaa tactcttaag aaacgaccag tctgaggctg
+     1261 taatgtcgtc caaattcgga agttgagaaa acatttgtga atccccaata ccttcctgat
+     1321 gttgtggttg aatcttatct gaatggaaat gatgtcgtgg ttcattagaa atggcctctg
+     1381 gctgtgttct gttatcttga aatagagggg attgtttatc tcccagataa aaacgccatt
+     1441 ctctgcttga ggagcagtga tgagttcccc tgtgcgtgaa tccatgatta ttgcagttga
+     1501 ggtggaggta gtatgagcag ccacagtcta ggtctacacg cttacgcctt attggtttct
+     1561 tcttggctat cttgtgttgg accttgattg atacttgcga acagtggctc gtagagggtg
+     1621 acgaaggttg cattcttgag agcccaattt ttcaaggata tgtttttttc ttcgtctaga
+     1681 tattccctat atgaggaggt aggtcctgga ttgcagagga agatagtggg aattccccct
+     1741 ttaatttgaa tgggcttccc gtactttgtg ttgctttgcc agtccctttg ggcccccata
+     1801 aattccttga agtgctttaa ataatgcggg tctacgtcat caatgacgtt gtaccacgca
+     1861 tcattgctgt acacctttgg gcttaggtct agatgtccac ataaataatt atgtgggcct
+     1921 agagacctgg cccacattgt tttccctgtt ctgctatcac cctcaatgac aatacttatg
+     1981 ggtctccatg gccgcgcagc ggaagacacg acgttctcgg cgacccactc ttcaagttca
+     2041 tctggaactt gattaaaaga agaagaaaga aatggagaaa cataaacttc taaaggagga
+     2101 ctaaaaatcc tatctaaatt tgaacttaaa ttatgaaatt gtaaaatata gtcctttggg
+     2161 gccttctctt ttaatatatt gagggcctcg gatttactgc ctgaattgag tgcttcggca
+     2221 tatgcgtcgt tggcagattg ctgacctcct ctagctgatc tgccatcgat ttggaaaact
+     2281 ccaaaatcaa tgaagtctcc gtctttctcc acgtaggtct tgacatctgt tgagctctta
+     2341 gctgcctgaa tgttcggatg gaaatgtgct gacctgtttg gggataccag gtcgaagaac
+     2401 cgttggttct tacattggta tttgccttcg aattggataa gcacatggag atgtggttcc
+     2461 ccattctcgt ggagttcttt gcaaactttg atgtattttt tatttgttgg ggtttctagg
+     2521 ttttttaatt gggaaagtgc ttcctcttta gagagagaac aattgggata tgttaggaaa
+     2581 taatttttgg catatatctt aaataaacga ggcatgttga aatgaatcgg tgtccctcaa
+     2641 agctctatgg caatcggtgt atcggtgtct tacttatacc tggacaccta atggctattt
+     2701 ggtaatttca tgaatgttca ttataattca aaattcaaaa atcaaatcat taaagcggcc
+     2761 atccgtataa tatt
+//
